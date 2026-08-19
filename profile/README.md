@@ -14,9 +14,7 @@
     <a href="https://woofam.github.io/3sec/">
       <img src="https://img.shields.io/badge/⚡_3SEC_Life-Visit_Brand-10b981?style=for-the-badge&logoColor=white" alt="3SEC Life" />
     </a>
-    <a href="https://github.com/woofam">
-      <img src="https://img.shields.io/badge/🎓_Kids_English_Studio-Edu_Tech-7c3aed?style=for-the-badge&logoColor=white" alt="Kids English Studio" />
-    </a>
+    <img src="https://img.shields.io/badge/🎓_Kids_English_Studio-Coming_Soon-7c3aed?style=for-the-badge&logoColor=white" alt="Kids English Studio" />
   </p>
 
   ---
@@ -50,7 +48,7 @@ Woofam은 직관적인 생활 의사결정 솔루션과 AI 기반 차세대 교�
 
 **"아이의 일상이 글로벌 영어 동화와 웹툰이 되는 곳"**
 
-> 🔗 **[Kids Contents Agent 프로젝트 바로가기](https://github.com/woofam)**
+> 🚧 **[서비스 소개 페이지 준비 중 (엔진 개발 진행 중)]**
 
 | 핵심 기능 및 가치 | 설명 |
 |:---|:---|

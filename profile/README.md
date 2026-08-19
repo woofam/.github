@@ -56,5 +56,5 @@ Woofam은 직관적인 판단과 실질적 가치를 전달하는 다양한 온�
 ---
 
 <div align="center">
-  <sub>© 2026 Woofam. All rights reserved. Open source under MIT License.</sub>
+  <sub>© 2026 Woofam. All rights reserved.</sub>
 </div>

@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/🌐_Official_Portal-woofam.github.io-2563eb?style=for-the-badge&logoColor=white" alt="Official Portal" />
     </a>
     <a href="https://woofam.github.io/3sec/">
-      <img src="https://img.shields.io/badge/⚡_3SEC_Life-Visit_Service-10b981?style=for-the-badge&logoColor=white" alt="3SEC Life" />
+      <img src="https://img.shields.io/badge/⚡_3SEC_Life-Visit_Brand-10b981?style=for-the-badge&logoColor=white" alt="3SEC Life" />
     </a>
   </p>
 
@@ -23,7 +23,7 @@
 
 > 👉 **웹 포털 바로가기: [https://woofam.github.io/](https://woofam.github.io/)**
 
-Woofam은 직관적인 판단과 실질적 가치를 전달하는 다양한 온라인 서비스와 웹 유틸리티를 개발하고 운영합니다.
+Woofam은 직관적인 판단과 실질적 가치를 전달하는 다양한 온라인 서비스와 AI 웹 솔루션을 개발하고 운영합니다.
 
 ---
 
@@ -31,11 +31,21 @@ Woofam은 직관적인 판단과 실질적 가치를 전달하는 다양한 온�
 
 **"고민은 3초 만에 끝내고, 일상은 가볍게"**
 
-| 서비스 | 한 줄 소개 | 링크 |
-|:---|:---|:---:|
-| 🍳 **3초 키친 / 레시피** | 냉장고 속 재료로 3초 만에 결정하는 오늘 한 끼 요리 큐레이션 | [바로가기](https://woofam.github.io/3sec/) |
-| ⚡ **3초 가성비 (Value)** | 단품 vs 묶음, 다이소 vs 노브랜드 채널별 최적 소비 공식 | [저장소](https://github.com/woofam/3sec-value) |
-| ⏱️ **3초 루틴 & 초이스** | 5-4-3-2-1 즉각 실행 법칙 기반 미루기 방지 생산성 툴 | *Coming Soon* |
+> 🔗 **[3SEC 브랜드 페이지 바로가기](https://woofam.github.io/3sec/)**
+
+| 서비스 | 한 줄 소개 |
+|:---|:---|
+| 🍳 **3초 키친 / 레시피** | 냉장고 속 재료로 3초 만에 결정하는 오늘 한 끼 요리 큐레이션 |
+| ⚡ **3초 가성비 (Value)** | 단품 vs 묶음, 다이소 vs 노브랜드 채널별 최적 소비 공식 |
+| ⏱️ **3초 루틴 & 초이스** | 5-4-3-2-1 즉각 실행 법칙 기반 미루기 방지 생산성 툴 |
+
+---
+
+## 🤖 AI & Content Agents
+
+| 프로젝트 | 설명 |
+|:---|:---|
+| 📖 **Kids Contents Agent** | 아동 프로필 맞춤형 영어 동화 및 세로 스크롤 웹툰 생성, E-Book·워크북 제작 AI 콘텐츠 엔진 |
 
 ---
 
